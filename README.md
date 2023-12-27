@@ -1,4 +1,4 @@
-# cocaf4bc6be301c0761487297
+# Hi, my name is Jinxiu Yao, and this is my first project submission with Scrimba
 
 Quick start:
 
